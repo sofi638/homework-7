@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: hsl(47, 88%, 63%);
+}
+.container {
+  background-color: white;
+  border-radius: 20px;
+  padding: 20px;
+  width: 400px;
+  border: solid 2px black;
+}
+
+.container .img-1 {
+  border-radius: 10px;
+}
+.color-1 {
+  background-color: hsl(47, 88%, 63%);
+  border-radius: 5px;
+  width: 130px;
+  padding: 3px;
+}
+.test-p {
+  text-align: left;
+}
+.color-2 {
+  color: hsl(0, 0%, 42%);
+}
+
+.container-1 {
+  text-align: start;
+}
+
+.img-2 {
+  display: flex;
+  width: 50px;
+  border: solid black 1px;
+  border-radius: 100%;
+}
